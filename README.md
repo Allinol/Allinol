@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Allinol
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python/Node JS
-- 💞️ I’m looking to collaborate on @CoastalFreeze
+- 💞️ I’m looking to collaborate on @Coastal-Freeze
 - 📫 How to reach me Discord @Allinol#6111
 
 <!---
